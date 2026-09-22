@@ -1,13 +1,14 @@
  Assignment 1: Hotel Management API
+ https://saiyashpoojariassignment-1-hotel-j18k.onrender.com (Render URL)
 
 **Student:** Saiyash Poojari  
 **Assignment:** Hotel Management REST API with Authentication
 
-## 📁 Project
+##  Project
 
 The project is located in the [`Saiyash Poojari/`](./Saiyash%20Poojari/) folder.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
@@ -15,7 +16,7 @@ The project is located in the [`Saiyash Poojari/`](./Saiyash%20Poojari/) folder.
 - bcryptjs
 - express-session
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -28,7 +29,7 @@ The project is located in the [`Saiyash Poojari/`](./Saiyash%20Poojari/) folder.
 | PUT | `/hotels/:id` | Update hotel |
 | DELETE | `/hotels/:id` | Delete hotel |
 
-## ▶️ Run Locally
+##  Run Locally
 
 ```bash
 cd "Saiyash Poojari"
