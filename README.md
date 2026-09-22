@@ -1,4 +1,4 @@
-# SAIYASH POOJARI - Assignment 1: Hotel Management API
+ Assignment 1: Hotel Management API
 
 **Student:** Saiyash Poojari  
 **Assignment:** Hotel Management REST API with Authentication
